@@ -1,0 +1,15 @@
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/obj/Debug/net7.0/partialclass.csproj.AssemblyReference.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/obj/Debug/net7.0/partialclass.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/obj/Debug/net7.0/partialclass.AssemblyInfoInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/obj/Debug/net7.0/partialclass.AssemblyInfo.cs
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/obj/Debug/net7.0/partialclass.csproj.CoreCompileInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/bin/Debug/net7.0/partialclass
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/bin/Debug/net7.0/partialclass.deps.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/bin/Debug/net7.0/partialclass.runtimeconfig.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/bin/Debug/net7.0/partialclass.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/bin/Debug/net7.0/partialclass.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/obj/Debug/net7.0/partialclass.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/obj/Debug/net7.0/refint/partialclass.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/obj/Debug/net7.0/partialclass.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/obj/Debug/net7.0/partialclass.genruntimeconfig.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/partialclass/obj/Debug/net7.0/ref/partialclass.dll

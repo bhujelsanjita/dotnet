@@ -1,0 +1,15 @@
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/obj/Debug/net7.0/sealedclas.csproj.AssemblyReference.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/obj/Debug/net7.0/sealedclas.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/obj/Debug/net7.0/sealedclas.AssemblyInfoInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/obj/Debug/net7.0/sealedclas.AssemblyInfo.cs
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/obj/Debug/net7.0/sealedclas.csproj.CoreCompileInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/bin/Debug/net7.0/sealedclas
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/bin/Debug/net7.0/sealedclas.deps.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/bin/Debug/net7.0/sealedclas.runtimeconfig.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/bin/Debug/net7.0/sealedclas.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/bin/Debug/net7.0/sealedclas.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/obj/Debug/net7.0/sealedclas.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/obj/Debug/net7.0/refint/sealedclas.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/obj/Debug/net7.0/sealedclas.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/obj/Debug/net7.0/sealedclas.genruntimeconfig.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/sealedclas/obj/Debug/net7.0/ref/sealedclas.dll

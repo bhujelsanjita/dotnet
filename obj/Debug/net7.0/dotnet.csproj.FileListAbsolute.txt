@@ -1,0 +1,5 @@
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/obj/Debug/net7.0/dotnet.csproj.AssemblyReference.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/obj/Debug/net7.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfoInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfo.cs
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/obj/Debug/net7.0/dotnet.csproj.CoreCompileInputs.cache

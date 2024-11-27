@@ -1,0 +1,15 @@
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/bin/Debug/net7.0/dotnet
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/bin/Debug/net7.0/dotnet.deps.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/bin/Debug/net7.0/dotnet.runtimeconfig.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/bin/Debug/net7.0/dotnet.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/bin/Debug/net7.0/dotnet.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/obj/Debug/net7.0/dotnet.csproj.AssemblyReference.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/obj/Debug/net7.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/obj/Debug/net7.0/dotnet.AssemblyInfoInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/obj/Debug/net7.0/dotnet.AssemblyInfo.cs
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/obj/Debug/net7.0/dotnet.csproj.CoreCompileInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/obj/Debug/net7.0/dotnet.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/obj/Debug/net7.0/refint/dotnet.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/obj/Debug/net7.0/dotnet.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/obj/Debug/net7.0/dotnet.genruntimeconfig.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/inheritance/obj/Debug/net7.0/ref/dotnet.dll

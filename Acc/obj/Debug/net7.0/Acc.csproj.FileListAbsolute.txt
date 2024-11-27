@@ -1,0 +1,15 @@
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/obj/Debug/net7.0/Acc.csproj.AssemblyReference.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/obj/Debug/net7.0/Acc.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/obj/Debug/net7.0/Acc.AssemblyInfoInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/obj/Debug/net7.0/Acc.AssemblyInfo.cs
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/obj/Debug/net7.0/Acc.csproj.CoreCompileInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/bin/Debug/net7.0/Acc
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/bin/Debug/net7.0/Acc.deps.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/bin/Debug/net7.0/Acc.runtimeconfig.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/bin/Debug/net7.0/Acc.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/bin/Debug/net7.0/Acc.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/obj/Debug/net7.0/Acc.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/obj/Debug/net7.0/refint/Acc.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/obj/Debug/net7.0/Acc.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/obj/Debug/net7.0/Acc.genruntimeconfig.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/Acc/obj/Debug/net7.0/ref/Acc.dll
