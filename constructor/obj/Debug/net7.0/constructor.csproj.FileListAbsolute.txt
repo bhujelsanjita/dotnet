@@ -1,0 +1,15 @@
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/bin/Debug/net7.0/constructor
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/bin/Debug/net7.0/constructor.deps.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/bin/Debug/net7.0/constructor.runtimeconfig.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/bin/Debug/net7.0/constructor.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/bin/Debug/net7.0/constructor.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/obj/Debug/net7.0/constructor.csproj.AssemblyReference.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/obj/Debug/net7.0/constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/obj/Debug/net7.0/constructor.AssemblyInfoInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/obj/Debug/net7.0/constructor.AssemblyInfo.cs
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/obj/Debug/net7.0/constructor.csproj.CoreCompileInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/obj/Debug/net7.0/constructor.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/obj/Debug/net7.0/refint/constructor.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/obj/Debug/net7.0/constructor.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/obj/Debug/net7.0/constructor.genruntimeconfig.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/constructor/obj/Debug/net7.0/ref/constructor.dll

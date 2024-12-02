@@ -1,8 +1,8 @@
 ﻿using System;
 
-class ArrayExample
+public class ArrayExample
 {
-    static void Main()
+    public static void Main()
     {
 
         int[] arr1 = new int[3];  // Initializes with default values (0 for integers)
@@ -39,22 +39,22 @@ class ArrayExample
         }
 
         // 2. Multi-Dimensional Array (2D Array)
-        int[,] twoDimensionalArray = new int[3, 3];
+        int[,] twoDimensionalArray = new int[2, 2];
 
         // Initializing values in the 2D array
-        for (int row = 0; row < 3; row++)
+        for (int row = 0; row < 2; row++)
         {
-            for (int col = 0; col < 3; col++)
+            for (int col = 0; col < 2; col++)
             {
-                twoDimensionalArray[row, col] = row + col;
+                twoDimensionalArray[row, col] = (row+1) + (col);
             }
         }
 
         // Accessing and displaying values in the 2D array
         Console.WriteLine("\nTwo-Dimensional Array (2D Array):");
-        for (int row = 0; row < 3; row++)
+        for (int row = 0; row < 2; row++)
         {
-            for (int col = 0; col < 3; col++)
+            for (int col = 0; col < 2; col++)
             {
                 Console.Write($"{twoDimensionalArray[row, col]} ");
             }

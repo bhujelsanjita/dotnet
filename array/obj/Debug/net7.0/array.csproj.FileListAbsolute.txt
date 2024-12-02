@@ -1,0 +1,15 @@
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/bin/Debug/net7.0/array
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/bin/Debug/net7.0/array.deps.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/bin/Debug/net7.0/array.runtimeconfig.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/bin/Debug/net7.0/array.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/bin/Debug/net7.0/array.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/obj/Debug/net7.0/array.csproj.AssemblyReference.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/obj/Debug/net7.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/obj/Debug/net7.0/array.AssemblyInfoInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/obj/Debug/net7.0/array.AssemblyInfo.cs
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/obj/Debug/net7.0/array.csproj.CoreCompileInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/obj/Debug/net7.0/array.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/obj/Debug/net7.0/refint/array.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/obj/Debug/net7.0/array.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/obj/Debug/net7.0/array.genruntimeconfig.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/array/obj/Debug/net7.0/ref/array.dll

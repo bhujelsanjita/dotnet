@@ -1,0 +1,15 @@
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/obj/Debug/net7.0/methodOverriding.csproj.AssemblyReference.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/obj/Debug/net7.0/methodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/obj/Debug/net7.0/methodOverriding.AssemblyInfoInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/obj/Debug/net7.0/methodOverriding.AssemblyInfo.cs
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/obj/Debug/net7.0/methodOverriding.csproj.CoreCompileInputs.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/bin/Debug/net7.0/methodOverriding
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/bin/Debug/net7.0/methodOverriding.deps.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/bin/Debug/net7.0/methodOverriding.runtimeconfig.json
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/bin/Debug/net7.0/methodOverriding.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/bin/Debug/net7.0/methodOverriding.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/obj/Debug/net7.0/methodOverriding.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/obj/Debug/net7.0/refint/methodOverriding.dll
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/obj/Debug/net7.0/methodOverriding.pdb
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/obj/Debug/net7.0/methodOverriding.genruntimeconfig.cache
+/home/sanjita-bhujel/Desktop/6thsem/dotnet/methodOverriding/obj/Debug/net7.0/ref/methodOverriding.dll
